@@ -54,7 +54,7 @@ public class GUI implements ActionListener{
     
     
        /*Create a frame, get it's contantpane and set layout*/
-    myFRame = new JFrame ("Address Book");
+    myFRame = new JFrame ("Phone Book");
     
     Container c = myFrame.getContentPane();
     c.setLayout(new FlowLayout());
